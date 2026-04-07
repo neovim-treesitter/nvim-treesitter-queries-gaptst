@@ -1,7 +1,6 @@
 {
-  "url": "https://github.com/gap-system/tree-sitter-gaptst",
-  "lang": "gaptst",
   "parser_version": "69086d7627c03e1f4baf766bcef14c60d9e92331",
-  "location": null,
+  "lang": "gaptst",
+  "url": "https://github.com/gap-system/tree-sitter-gaptst",
   "semver": false
 }
